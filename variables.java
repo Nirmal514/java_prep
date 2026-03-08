@@ -1,3 +1,7 @@
+// this is a simple java program to demonstrate the use of variables
+
+
+
 public class Variables {
     public static void main(String[] args) {
         int age = 21;
